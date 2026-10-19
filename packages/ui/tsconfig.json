@@ -1,0 +1,4 @@
+{
+  "extends": "@portfolio/typescript-config/base.json",
+  "include": ["src/**/*.tsx", "src/**/*.ts"]
+}

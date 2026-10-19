@@ -1,0 +1,19 @@
+{
+  "name": "shreyas-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "engines": { "node": ">=20.9.0" },
+  "scripts": {
+    "dev": "npm run dev --workspace=@portfolio/web",
+    "build": "npm run build --workspace=@portfolio/web",
+    "start": "npm run start --workspace=@portfolio/web",
+    "typecheck": "npm run typecheck --workspaces --if-present"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "0": "compilerOptions",
+  "1": "package.json",
+  "2": "package.json",
+  "3": "package.json",
+  "4": "include",
+  "5": "dependencies",
+  "6": "devDependencies",
+  "7": "compilerOptions",
+  "8": "package.json",
+  "9": "tsconfig.json",
+  "10": "Portfolio monorepo",
+  "11": "layout.tsx",
+  "12": "next.config.ts",
+  "13": "page.tsx",
+  "14": "index.tsx",
+  "15": "next-env.d.ts"
+}

@@ -1,0 +1,42 @@
+# Dependencies and package manager caches
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build output and caches (all workspaces)
+.next/
+out/
+dist/
+.turbo/
+.cache/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment secrets; keep example files available to commit
+.env*
+!.env.example
+!.env.*.example
+!.env.template
+*.pem
+*.key
+
+# Local deployment state
+.vercel/
+.netlify/
+
+# Logs
+*.log
+
+# Generated Graphify caches, local paths, and dated backups
+graphify-out/cache/
+graphify-out/.graphify_root
+graphify-out/20??-??-??/
+
+# OS and editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~

@@ -1,0 +1,67 @@
+{
+  "apps/web/next-env.d.ts": {
+    "mtime": 1792446331.8010664,
+    "ast_hash": "8195d2c60ce847a459ae9d308d6a5724",
+    "semantic_hash": ""
+  },
+  "apps/web/next.config.ts": {
+    "mtime": 1792446305.8095844,
+    "ast_hash": "971b6caa42f36342cafbcbef376eac6f",
+    "semantic_hash": ""
+  },
+  "apps/web/package.json": {
+    "mtime": 1792446133.39933,
+    "ast_hash": "49b418489b66b303658bb9c4a5a745bf",
+    "semantic_hash": ""
+  },
+  "apps/web/src/app/layout.tsx": {
+    "mtime": 1792446227.4948897,
+    "ast_hash": "3ce9021ffb86430e48f555ca56469cef",
+    "semantic_hash": ""
+  },
+  "apps/web/src/app/page.tsx": {
+    "mtime": 1792446228.434258,
+    "ast_hash": "eea567112ce66e25cce4a48d5693be41",
+    "semantic_hash": ""
+  },
+  "apps/web/tsconfig.json": {
+    "mtime": 1792446134.475718,
+    "ast_hash": "93fef95003efd5335ae9d7e4f94c2dc2",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1792446118.6840973,
+    "ast_hash": "fb7560fae3236472d341ca815fe06256",
+    "semantic_hash": ""
+  },
+  "packages/typescript-config/base.json": {
+    "mtime": 1792446123.5260684,
+    "ast_hash": "3071b09c9c00ad165823ab72d30692ec",
+    "semantic_hash": ""
+  },
+  "packages/typescript-config/package.json": {
+    "mtime": 1792446122.606102,
+    "ast_hash": "6da7c618fb7b806194b262ff097779f4",
+    "semantic_hash": ""
+  },
+  "packages/ui/package.json": {
+    "mtime": 1792446126.5022812,
+    "ast_hash": "201d7ab84d72d1bdb64529ca5513214a",
+    "semantic_hash": ""
+  },
+  "packages/ui/src/index.tsx": {
+    "mtime": 1792446229.3854854,
+    "ast_hash": "6cbf019e5f7cfbc772fb2ff3d2cb2b18",
+    "semantic_hash": ""
+  },
+  "packages/ui/tsconfig.json": {
+    "mtime": 1792446127.534892,
+    "ast_hash": "9a77d9fb879e7b636691f4e4c5dd74c1",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792446231.2346032,
+    "ast_hash": "c779ccb265d347861bad461a7c696be0",
+    "semantic_hash": ""
+  }
+}
